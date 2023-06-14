@@ -1,0 +1,33 @@
+body{
+    font-style: italic;
+    background-image: radial-gradient(blueviolet,rgb(204, 77, 104));
+}
+
+.contenido{
+    border: 2px solid black;
+    background-color: white;
+}
+
+.Encabezado{
+    margin: 0px;
+    padding: 1px;
+    text-align: center;
+    background-color: darkgrey;
+    border-bottom: 2px solid black;
+}
+
+.ListEj{
+    border-bottom: 2px solid black;
+    padding-left: 10px;
+}
+
+p{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.foot{
+    text-align: center;
+    background-color: darkgrey;
+    padding: 20px;
+}
